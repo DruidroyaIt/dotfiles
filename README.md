@@ -1,6 +1,7 @@
 # Base dotfiles
 ## Dependencies
 **Arch**
+
 Pacman
 
 ```bash
