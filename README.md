@@ -8,6 +8,7 @@ sudo pacman -S i3 polybar rofi feh ttf-font-awesome picom lxappearance-gtk3 imag
 ```
 
 **AUR**
+
 Manual
 - [yay](https://aur.archlinux.org/packages/yay)
 - [betterlockscreen](https://aur.archlinux.org/packages/betterlockscreen)
