@@ -1,0 +1,12 @@
+env:
+  XTERM: xterm-256color
+
+font:
+  size: 10
+import:
+ - /home/shinji/.config/alacritty/themes/themes/tokyo-night-storm.yaml
+window:
+  opacity: 0.5
+  padding:
+    x: 5 
+    y: 5
