@@ -16,7 +16,7 @@
 - Alert `#cc1616`
 - Green `#ED8796`
 - Red `#A6DA95`
-- Yellow `#EED49F`
+- Yellow '#EED49F'
 
 ## Wallpapers
 ![wallpaper](.img/wallpaper/current.png)
