@@ -1,7 +1,7 @@
 ### Margins for notification-center/notifications
-margin-top: 20
-margin-right: 0
-margin-bottom: 0
+margin-top: 47
+margin-right: 10
+margin-bottom: 10
 
 ### Width of the notification center/notifications in pixels.
 width: 500
@@ -16,7 +16,7 @@ monitor: 0
 
 ### If true, the notification center/notifications will open on the
 ### screen, on which the mouse is. Overrides the "monitor" setting.
-follow-mouse: true
+follow-mouse: false
 
 notification-center:
   ### Margin at the top/right/bottom of the notification center in
@@ -198,7 +198,7 @@ notification:
       app-name: "Spotify"
     modify:
       image-size: 80
-      timeout: 1
+      timeout: 2
       send-noti-closed: true
       class-name: "Spotify"
       action-icons: true
@@ -223,13 +223,13 @@ notification:
     ### Default timeout used for notifications in milli-seconds.  This can
     ### be overwritten with the "-t" option (or "--expire-time") of the
     ### notify-send command.
-    default-timeout: 100000
+    default-timeout: 5000
 
     ### Margin above/right/between notifications (in pixels). This can
     ### be used to avoid overlap between notifications and a bar such as
     ### polybar or i3blocks.
-    margin-top: 50
-    margin-right: 50
+    margin-top: 47
+    margin-right: 10
     margin-between: 20
 
     ### Defines after how many lines of text the body will be truncated. 
